@@ -13,7 +13,7 @@ env:
   #################################################
   #################################################
   ### REPLACE USERNAME WITH GH USERNAME         ###
-  AZURE_WEBAPP_NAME: stevfaux
+  AZURE_WEBAPP_NAME: stevfaux-ttt-app
   #################################################
 
 jobs:
